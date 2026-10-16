@@ -4,7 +4,7 @@
 This project simulates an end-to-end consulting assignment for a scaling e-commerce marketplace (utilizing the Olist dataset of ~100k records). The objective was to diagnose network inefficiencies, isolate fulfillment bottlenecks, and build an executive-ready diagnostic tool to recover failing customer Service Level Agreements (SLAs).
 
 ### 🖥️ Executive Dashboard Snapshot
-![./Screenshot(82).png](./Screenshot(82).png)
+<img width="939" alt="Screenshot(82)" src="https://github.com/user-attachments/assets/81c21417-e7e0-4504-a664-61290c971d03">
 
 ---
 
