@@ -1,4 +1,4 @@
-# E-Commerce Logistics & SLA Optimization Case Study
+# E-Commerce Logistics & SLA Optimization
 
 ## Project Overview
 This project simulates an end-to-end consulting assignment for a scaling e-commerce marketplace (utilizing the Olist dataset of 100k records). The objective was to diagnose network inefficiencies, isolate fulfillment bottlenecks, and build an executive-ready diagnostic tool to recover failing customer Service Level Agreements (SLAs).
